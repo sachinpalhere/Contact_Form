@@ -1,0 +1,65 @@
+body{
+    background-color: white;
+    padding: 0%;
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.flex-container{
+    display: flex;
+    align-content: space-between;
+}
+.flex-item{
+    margin-top: 20px;
+    width: 600px;
+    height: 600px;
+    background-color: brown;
+}
+#flex-item1{
+    width: 500px;
+    background-color: rgb(23, 23, 160);
+    border: hidden;
+    border-radius: 10px;
+    color: white;
+}
+#flex-item2{
+    padding-left: 40px;
+    width: 900px;
+    background-color: white;
+}
+.contact{
+    padding: 40px;
+}
+.details{
+    padding: 20px 0 20px 20px;
+    font-family: Arial;
+}
+.input-row{
+    display: flex;
+    margin-bottom: 20px;
+    
+}
+.input-row .input-group{
+    flex-basis: 45%;
+
+}
+input{
+    border: none;
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+}
+.class{
+    margin: 10px;
+}
+
+.contact-left{
+    flex-basis: 60%;
+    margin: 40px 60px;
+}
+textarea{
+    width: 100%;
+    border: 1px solid #ccc;
+    outline: none;
+    padding: 10px;
+    box-sizing: border-box;
+}

@@ -1,0 +1,49 @@
+<div class="form">
+                    <!-- <label for="fist name">Fist Name</label>
+                    <input type="text" name="" id="">
+                    <label for="mail">Mail</label>
+                    <input type="email" name="" id=""> -->
+                    <p>Name</p>
+                    <input type="text" name="" id="">
+                    <p>Mail</p>
+                    <input type="email" name="" id="">
+                </div>
+                <div class="form" id="form1">
+                    <!-- <label for="fist name">Fist Name</label>
+                    <input type="text" name="" id="">
+                    <label for="mail">Mail</label>
+                    <input type="email" name="" id=""> -->
+                    <p>Name</p>
+                    <input type="text" name="" id="">
+                    <p>Mail</p>
+                    <input type="email" name="" id="">
+                </div>
+
+
+
+
+
+                <div class="flex-item" id="flex-item2">
+                <form action="">
+                    <div class="input-row">
+                        <div class="input-group">
+                            <label class="class">First Name</label>
+                            <input type="text" name="" id="">
+                        </div>
+                        <div class="input-group">
+                            <label class="class">Last Name</label>
+                            <input type="text" name="" id="">
+                        </div>
+                    </div>
+                    <div class="input-row">
+                        <div class="input-group">
+                            <label class="class">Mail</label>
+                            <input type="text" name="" id="">
+                        </div>
+                        <div class="input-group">
+                            <label class="class">Phone</label>
+                            <input type="text" name="" id="">
+                        </div>
+                    </div>
+                </form>
+            </div>
